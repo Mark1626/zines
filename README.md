@@ -2,12 +2,12 @@
 
 
 | [Screen PDF][screen] | [Print PDF][print]                                                                                               |
-| [![example first page](./zines/tensors/modelling-computation-as-tensors.png?raw=true)][screen-tensors] | [![complete booklet](./zines/tensors/modelling-computation-as-tensors-print.png?raw=true)][print-tensors] |
-|   | [![complete booklet](./zines/openmp/openmp_zine.png?raw=true)][print-openmp] |
+| [![example first page](./zines/tensors/modelling-computation-as-tensors.png?raw=true =250x)][screen-tensors] | [![complete booklet](./zines/tensors/modelling-computation-as-tensors-print.png?raw=true =250x)][print-tensors] |
+|   | [![complete booklet](./zines/openmp/openmp_zine.png?raw=true =250x)][print-openmp] |
 
 [screen-tensors]: ./zines/tensors/modelling-computation-as-tensors.pdf
 [print-tensors]: ./zines/tensors/modelling-computation-as-tensors-print.pdf
-[print-openmp]: ./zines/openmp/openmp_zine.png
+[print-openmp]: ./zines/openmp/openmp_zine.pdf
 
 # Inspiration
 
