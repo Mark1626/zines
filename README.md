@@ -1,9 +1,10 @@
 # Zines
 
 
-| [Screen PDF][screen] | [Print PDF][print]                                                                                               |
-| [![example first page](./zines/tensors/modelling-computation-as-tensors.png?raw=true)][screen-tensors] | [![complete booklet](./zines/tensors/modelling-computation-as-tensors-print.png?raw=true)][print-tensors] |
-|   | [![complete booklet](./zines/openmp/openmp_zine.png?raw=true)][print-openmp] |
+|               Topic                | [Screen PDF][screen] | [Print PDF][print] |
+|------------------------------------|----------------------|---------------------|
+| Modelling Computation as Tensors   |[![example first page](./zines/tensors/modelling-computation-as-tensors.png?raw=true)][screen-tensors] | [![complete booklet](./zines/tensors/modelling-computation-as-tensors-print.png?raw=true)][print-tensors] |
+|   OpenMP   |                     | [![complete booklet](./zines/openmp/openmp_zine.png?raw=true)][print-openmp] |
 
 [screen-tensors]: ./zines/tensors/modelling-computation-as-tensors.pdf
 [print-tensors]: ./zines/tensors/modelling-computation-as-tensors-print.pdf
